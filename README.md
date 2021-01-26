@@ -1,7 +1,11 @@
 <h1 align="center">Hi guys! 👋, Welcome to my profile!</h1>
 <h3 align="center">I am a passionate Software Engineer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinmuminkorcan&label=Profile%20views&color=0e75b6&style=flat" alt="aydinmuminkorcan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinmuminkorcan&label=Profile%20views&color=0e75b6&style=flat" alt="aydinmuminkorcan" /> 
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/aydinmuminkorcan)](https://badges.pufler.dev)
+
+ </p>
 
 - 🔭 I’m currently working on [user-authenticator](https://github.com/aydinmuminkorcan/user-authenticator)
 
